@@ -26,6 +26,6 @@ The important steps of the project can summarized as follows:
 4. **Model Selection**: After experimenting with various machine learning models, K-NN was chosen as the final model due to its simplicity, interpretability, and good performance in classifying Iris species.
     
 ## Conclusion
-In conclusion, the Iris flower classification project successfully employed K-NN as the final prediction model to classify Iris species. It obtained a recall of **97%**  which is our primary evaluation metric for this project. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
+In conclusion, the Iris flower classification project successfully employed **K-NN** as the final prediction model to classify Iris species. It obtained a **recall** of **97%**  which is our primary evaluation metric for this project. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
 
 ----------
